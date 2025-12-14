@@ -56,8 +56,7 @@ How to Run This Program
 2. Press F5
 3. Choose what you want to do from the menu
 
-
 Testing
 
-I made 8 tests to check if the program works correctly.
-All 8 tests passed successfully.
+I made tests to check if the program works correctly.
+All tests passed successfully.
