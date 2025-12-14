@@ -3,8 +3,7 @@ Gaming Score Tracker
 Student: Scott Ochieng Gumo
 Module: CET2007  
 University: University of Sunderland  
-Date: December 2024
-
+Date: December 2025
 
 What This Program Does
 
